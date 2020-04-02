@@ -1,2 +1,1 @@
-# flask_plotly_front
-flask_plotly_front
+# Flask Plotly Front Demo
